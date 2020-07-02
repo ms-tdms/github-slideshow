@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+En chaque commencement un charme a sa demeure
 Use the left arrow to go back!
